@@ -857,7 +857,7 @@ p {
 }
 
 .next-steps {
-    background: linear-gradient(135deg, var(--primary-black), #2a2a2a);
+    background: linear-gradient(135deg, var(--primary-black), #e1dedc);
     color: var(--primary-white);
     border-radius: 12px;
     padding: var(--spacing-2xl);
