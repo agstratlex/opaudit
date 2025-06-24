@@ -900,6 +900,10 @@ p {
     color: var(--gold-light);
 }
 
+.next-steps p {
+    color: #e1dedc;
+}
+
 .ag-strategies-intro {
     margin-bottom: var(--spacing-2xl);
 }
